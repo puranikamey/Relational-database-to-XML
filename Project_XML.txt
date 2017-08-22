@@ -1,0 +1,303 @@
+<?xml version=1.0 encoding= UTF-8?>
+ <ProjectInformation>
+<Project>
+    <Projectnumber>70</projectnumber>
+    <ProjectName>Advertizing</ProjectName>
+    <Department >Sales</Department>
+<EmpDetails>
+    <lastname>Jones</lastname>
+    <Firstname>Megan</Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Liang</lastname>
+    <Firstname>Percy<Firstname>
+    <Hours >10.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Maxfield</lastname>
+    <Firstname>Erin<Firstname>
+    <Hours >20.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Lewallen</lastname>
+    <Firstname>Roy<Firstname>
+    <Hours >2.0</Hours>
+</EmpDetails
+</Project>
+<Project>
+    <Projectnumber>10</projectnumber>
+    <ProjectName>Computerization</ProjectName>
+    <Department >Software</Department>
+<EmpDetails>
+    <lastname>Sheen</lastname>
+    <Firstname>Jake</Firstname>
+    <Hours >25.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Lewallen</lastname>
+    <Firstname>Roy<Firstname>
+    <Hours >4.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Zelaya</lastname>
+    <Firstname>Alicia<Firstname>
+    <Hours >10.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Jabbar</lastname>
+    <Firstname>Ahmad<Firstname>
+    <Hours >35.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Koelbel</lastname>
+    <Firstname>Richard<Firstname>
+    <Hours >35.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Wong</lastname>
+    <Firstname>Franklin<Firstname>
+    <Hours >10.0</Hours>
+</EmpDetails
+</Project>
+<Project>
+    <Projectnumber>11</projectnumber>
+    <ProjectName>ConfigMgmt</ProjectName>
+    <Department >Software</Department>
+<EmpDetails>
+    <lastname>Hall</lastname>
+    <Firstname>Debra</Firstname>
+    <Hours >20.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Holmes</lastname>
+    <Firstname>Wilson<Firstname>
+    <Hours >20.0</Hours>
+</EmpDetails
+</Project>
+<Project>
+    <Projectnumber>62</projectnumber>
+    <ProjectName>DatabaseSystems</ProjectName>
+    <Department >Sales</Department>
+<EmpDetails>
+    <lastname>Maxfield</lastname>
+    <Firstname>Erin</Firstname>
+    <Hours >20.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Vos</lastname>
+    <Firstname>Jenny<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Head</lastname>
+    <Firstname>Arnold<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Carter</lastname>
+    <Firstname>Chris<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Bacher</lastname>
+    <Firstname>Red<Firstname>
+    <Hours >10.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Wallis</lastname>
+    <Firstname>Evan<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Zell</lastname>
+    <Firstname>Josh<Firstname>
+    <Hours >48.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Lewallen</lastname>
+    <Firstname>Roy<Firstname>
+    <Hours >4.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Vile</lastname>
+    <Firstname>Andy<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Ted</lastname>
+    <Firstname>Kim<Firstname>
+    <Hours >25.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Brand</lastname>
+    <Firstname>Tom<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails
+</Project>
+<Project>
+    <Projectnumber>13</projectnumber>
+    <ProjectName>DataMining</ProjectName>
+    <Department >Software</Department>
+<EmpDetails>
+    <lastname>Yu</lastname>
+    <Firstname>Alex</Firstname>
+    <Hours >18.0</Hours>
+</EmpDetails
+</Project>
+<Project>
+    <Projectnumber>4</projectnumber>
+    <ProjectName>EntityAnnot</ProjectName>
+    <Department >Research</Department>
+<EmpDetails>
+    <lastname>Morgan</lastname>
+    <Firstname>Michael</Firstname>
+    <Hours >11.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Holmes</lastname>
+    <Firstname>Wilson<Firstname>
+    <Hours >5.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Thirteen</lastname>
+    <Firstname>Cameron<Firstname>
+    <Hours >45.0</Hours>
+</EmpDetails
+</Project>
+<Project>
+    <Projectnumber>95</projectnumber>
+    <ProjectName>Human1</ProjectName>
+    <Department >HR</Department>
+<EmpDetails>
+    <lastname>Mary</lastname>
+    <Firstname>willie</Firstname>
+    <Hours >35.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Lewallen</lastname>
+    <Firstname>Roy<Firstname>
+    <Hours >3.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Cucuou</lastname>
+    <Firstname>Sheldon<Firstname>
+    <Hours >23.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Linda</lastname>
+    <Firstname>Juan<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails
+</Project>
+<Project>
+    <Projectnumber>91</projectnumber>
+    <ProjectName>InkjetPrinters</ProjectName>
+    <Department >Sales</Department>
+<EmpDetails>
+    <lastname>Lewallen</lastname>
+    <Firstname>Roy</Firstname>
+    <Hours >2.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Jarvis</lastname>
+    <Firstname>Jill<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Leslie</lastname>
+    <Firstname>Lyle<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Freed</lastname>
+    <Firstname>Alex<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>King</lastname>
+    <Firstname>Billie<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Ed</lastname>
+    <Firstname>John<Firstname>
+    <Hours >10.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Bays</lastname>
+    <Firstname>Bonnie<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Best</lastname>
+    <Firstname>Alec<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>King</lastname>
+    <Firstname>Ray<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Snedden</lastname>
+    <Firstname>Sam<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails
+</Project>
+<Project>
+    <Projectnumber>92</projectnumber>
+    <ProjectName>LaserPrinters</ProjectName>
+    <Department >Sales</Department>
+<EmpDetails>
+    <lastname>James</lastname>
+    <Firstname>John</Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Ball</lastname>
+    <Firstname>Nandita<Firstname>
+    <Hours >44.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Lewallen</lastname>
+    <Firstname>Roy<Firstname>
+    <Hours >1.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Kirkish</lastname>
+    <Firstname>Joseph<Firstname>
+    <Hours >33.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Kramer</lastname>
+    <Firstname>Jon<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails
+</Project>
+<Project>
+    <Projectnumber>63</projectnumber>
+    <ProjectName>Middleware</ProjectName>
+    <Department >Software</Department>
+<EmpDetails>
+    <lastname>Barbara</lastname>
+    <Firstname>Jose</Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Grace</lastname>
+    <Firstname>Kim<Firstname>
+    <Hours >40.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Chase</lastname>
+    <Firstname>Jeff<Firstname>
+    <Hours >46.0</Hours>
+</EmpDetails>
+<EmpDetails>
+    <lastname>Bacher</lastname>
+    <Firstname>Red<Firstname>
+    <Hours >10.0</Hours>
+</EmpDetails
+</Project>
+</ProjectInformation>

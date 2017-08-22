@@ -1,0 +1,73 @@
+<?xml version=1.1 encoding= UTF-8?>
+<DepartmentInformation>
+<Department>
+    <Department_Name>Headquarters</Department_Name>
+    <Manager>Borg</Manager>
+<Dept_locations>
+    <Dlocation>Houston</Dlocation>
+</Dept_locations
+</Department>
+<Department>
+    <Department_Name>Administration</Department_Name>
+    <Manager>Wallace</Manager>
+<Dept_locations>
+    <Dlocation>Stafford</Dlocation>
+</Dept_locations
+</Department>
+<Department>
+    <Department_Name>Research</Department_Name>
+    <Manager> Wong</Manager>
+<Dept_locations>
+    <Dlocation>Bellaire</Dlocation>
+    <Dlocation>Sugarland</Dlocation>
+    <Dlocation>Houston</Dlocation>
+</Dept_locations
+</Department>
+<Department>
+    <Department_Name>Software</Department_Name>
+    <Manager>James</Manager>
+<Dept_locations>
+    <Dlocation>Atlanta</Dlocation>
+    <Dlocation>Sacramento</Dlocation>
+</Dept_locations
+</Department>
+<Department>
+    <Department_Name>Hardware</Department_Name>
+    <Manager>Freed</Manager>
+<Dept_locations>
+    <Dlocation>Milwaukee</Dlocation>
+</Dept_locations
+</Department>
+<Department>
+    <Department_Name>Sales</Department_Name>
+    <Manager>James</Manager>
+<Dept_locations>
+    <Dlocation>Chicago</Dlocation>
+    <Dlocation>Dallas</Dlocation>
+    <Dlocation>Philadephia</Dlocation>
+    <Dlocation>Seattle</Dlocation>
+    <Dlocation>Miami</Dlocation>
+</Dept_locations
+</Department>
+<Department>
+    <Department_Name>HR</Department_Name>
+    <Manager> Linda</Manager>
+<Dept_locations>
+    <Dlocation>Arlington</Dlocation>
+</Dept_locations
+</Department>
+<Department>
+    <Department_Name>QA</Department_Name>
+    <Manager>Kirkish</Manager>
+<Dept_locations>
+    <Dlocation>Austin</Dlocation>
+</Dept_locations
+</Department>
+<Department>
+    <Department_Name>Networking</Department_Name>
+    <Manager>Gupta</Manager>
+<Dept_locations>
+    <Dlocation>NULL</Dlocation>
+</Dept_locations
+</Department>
+</DepartmentInforamtion>
